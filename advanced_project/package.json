@@ -1,0 +1,27 @@
+{
+  "name": "testing_nodejs_with_mocha__ADVANCED",
+  "version": "0.1.0",
+  "author": "Michael Lilley",
+  "description": "Testing NodeJS with Mocha",
+  "keywords": [
+    "testing",
+    "mocha",
+    "should",
+    "sinon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlilley/testing_nodejs_with_mocha.git"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "sinon":  "*"
+  },
+  "licence": "MIT",
+  "readme": "README.md",
+  "scripts": {
+    "test": "make test"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "testing_presentation",
+  "version": "0.1.0",
+  "author": "Michael Lilley",
+  "description": "Testing NodeJS with Mocha, Should, Sinon etc...",
+  "keywords": [
+    "testing",
+    "mocha",
+    "should",
+    "sinon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlilley/testing_presentation.git"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "licence": "MIT",
+  "scripts": {
+    "test": "make test"
+  }
+}
+
